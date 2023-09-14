@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "PrintingPatterns2.C": "cpp",
+        "PrintingPatterns3.C": "cpp",
+        "PrintingPatterns4.C": "cpp",
+        "PrintingPatternsPreinc.C": "cpp",
+        "ALT01printingpatterns3.C": "cpp",
+        "PrintingPatternsPostInc.C": "cpp",
+        "AltPrintingPatterns4.C": "cpp"
+    }
+}

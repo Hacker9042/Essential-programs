@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "PrintingPatternsPreinc.C": "cpp",
+        "PrintingPatternsPostInc.C": "cpp",
+        "PrintingPatterns4.C": "cpp",
+        "PrintingPatterns3.C": "cpp",
+        "PrintingPatterns2.C": "cpp",
+        "stdio.h": "c"
+    }
+}
